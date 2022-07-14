@@ -31,7 +31,6 @@ const yuizz = {
         },
         devOps: ["AWS", "Docker🐳", "GithubActions", "Nginx", "DigitalOcean"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Learn more & more about what I love!"
