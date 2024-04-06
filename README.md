@@ -6,12 +6,12 @@
 
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5ed3f3)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=7377ad)
 ![](https://img.shields.io/badge/OS-WSL2-informational?style=flat&logo=linux&logoColor=white&color=efb80f)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019331)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=356c9b)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=efd81d)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=7377ad)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5ed3f3)
 ![](https://img.shields.io/badge/Shell-OhMyZsh-informational?style=flat&logo=windowsterminal&logoColor=white&color=702183)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=42759c)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2391e6)
